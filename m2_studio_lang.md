@@ -43,7 +43,8 @@ the consistency and creativity of the responses provided.
    | Parameter   | Value |
    | ----------- | ----- |
    | Temperature | 0     |
-   | Toekn Limit | 1024  |
+   | Token Limit | 1024  |
+
 3. Start the conversation with the following prompt:
     ```text
     Tell me about the solar system
@@ -61,3 +62,10 @@ the consistency and creativity of the responses provided.
     ```
 4. Ask the same question a few more times. Point out that the answer is 
    different each time and note the differences. Tie that back to temperature.
+
+### Section 3
+
+The point of this section is to show how both the prompt gallery and how
+you can use the structured prompt design UI to generate content.
+
+1. Walk the students quickly through https://console.cloud.google.com/vertex-ai/generative/language/prompt-examples/Hashtag%20tokenization
