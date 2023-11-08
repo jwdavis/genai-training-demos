@@ -7,8 +7,8 @@ This demo only works if you have access to the Vision section of GenAI studio.
 1. Log in with an account that has access to an allow-listed project, and
    configure the console to use that project  (e.g. `cloud-llm-preview1`). Make
    sure you can access **Vertex AI > Generative AI Studion > Vision**.
-2. Download the image at https://storage.googleapis.com/genai-demo-images/AKR07415%20(2022-11-06T03_37_29.233).jpg 
-3. Download the image at https://storage.googleapis.com/genai-demo-images/AKR07415%20(2022-11-06T03_37_29.233).jpg
+2. Download the image at https://storage.googleapis.com/genai-demo-images/art.jpg
+3. Download the image at https://storage.googleapis.com/genai-demo-images/splatoon.jpg
 
 ## Instructions
 
